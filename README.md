@@ -1,1 +1,1 @@
-Inspired by Sigma Web Development. Ultra Edit Website's download page clone. Hover effects are not added. Main website link -> https://www.ultraedit.com/downloads/ultraedit-download-thank-you/ Some improvement can be done. Also not checked for responsiveness
+Inspired by Sigma Web Development. Ultra Edit Website's download page clone. Hover effects are not added. Main website link -> https://www.ultraedit.com/downloads/ultraedit-download-thank-you/ Some improvement can be done. Also it is responsive except footer.
